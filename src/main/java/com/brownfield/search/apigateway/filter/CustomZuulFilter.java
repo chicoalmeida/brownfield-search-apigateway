@@ -1,4 +1,4 @@
-package com.brownfield.pss.search.apigateway.filter;
+package com.brownfield.search.apigateway.filter;
 
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
